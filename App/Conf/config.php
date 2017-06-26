@@ -6,6 +6,9 @@ return array(
 	 */
 	"APP_GROUP_LIST"=>"Index,Admin"
 	,"DEFAULT_GROUP"=>"Index"
+	// 开启独立分组
+	,'APP_GROUP_MODE'=>1
+	,'APP_GROUP_PATH'=>"Modules"
 	//数据库连接
 	,"DB_HOST"=>"127.0.0.1"
 	,"DB_USER"=>"root"
